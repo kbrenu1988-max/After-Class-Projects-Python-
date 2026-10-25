@@ -1,0 +1,6 @@
+print("My Daily Routine")
+print("7:00 am - I wake up and get ready")
+print("8:00 am - I go to school")
+print("7:00 pm - I do homework")
+print("8:00 pm - I read 60 min newspaper")
+print("Hours I read in a week:", 60/60*7)
